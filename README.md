@@ -1,6 +1,8 @@
 # CodeKataPythonPyramid
 https://www.codewars.com/kata/66c79a67213a3a4e1486c364/train/python
 
+I'm fairly new to Python. This is my first Kata using Python:
+
 Pyramid building in Egypt
 You are a Pharaoh in ancient Egypt, and you want to build the perfect pyramid for yourself. There's only a limited number of stones, however, and different kinds of stones vary in their value. You want to maximize the value of your pyramid while keeping it exactly three layers high.
 
